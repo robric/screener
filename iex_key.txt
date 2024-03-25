@@ -1,0 +1,2 @@
+public_key=pk_d70edef383a84e1da6c718a9f5dca933
+secret_key=sk_7f20073bbf4a4bd9b744c5a04eaab5ee
